@@ -1,8 +1,10 @@
 # Ship_Prototype
 
-[![itch.io](https://img.shields.io/badge/itch.io-Play_in_Browser-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://mope4ok.itch.io/ship-prototype)
-
-[![YouTube](https://img.shields.io/badge/YouTube-Watch_Trailer-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/gqhpalfDnXo)
+<p align="center">
+  <iframe frameborder="0" src="https://itch.io/embed/4994105" width="552" height="167">
+    <a href="https://mope4ok.itch.io/ship-prototype">Ship_Prototype by MOPE4ok</a>
+  </iframe>
+</p>
 
 [![Gameplay on YouTube](https://img.youtube.com/vi/gqhpalfDnXo/maxresdefault.jpg)](https://www.youtube.com/watch?v=gqhpalfDnXo)
 
