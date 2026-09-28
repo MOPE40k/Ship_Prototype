@@ -8,4 +8,4 @@
   * OOP;
   * URP;
   * InputSystem;
-​  * Cinemachine.
+  * Cinemachine.
